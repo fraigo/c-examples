@@ -2,6 +2,8 @@
 
 Array examples
 
+Try it online at https://onlinegdb.com/B1ItiD9rm
+
 *******************************************************************************/
 
 #include <stdio.h>
